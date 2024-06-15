@@ -9,3 +9,6 @@ Write a script that adds execute permission to the owner of the file hello.
 Write a script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
 
 Write a script that sets the mode of the file hello to this: -rwxr-x-wx
+
+- Make file executable: chmod +x filename
+- To execute file: ./filename
