@@ -1,5 +1,2 @@
 #!/bin/bash
-file="hello"
-chmod u=rwx $file
-chmod g=rx $file
-chmod o=wx $file
+chmod u=rwx && chmod g=rx && chmod o=wx
